@@ -1,0 +1,18 @@
+.header {
+    height: 60px;
+    background: #E5AD50;
+}
+.header-a {
+    color: black;
+}
+.block-1 {
+    background: #fadfb3;
+}
+.block-2 {
+    background: blueviolet;
+    color: white;
+    height: 300px;
+}
+.styleref {
+    color: white;
+}
